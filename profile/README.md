@@ -2,8 +2,8 @@
 
 [idntimes](https://github.com/IDN-Media/README.idntimes.com) |
 [popbela](https://github.com/IDN-Media/README.popbela.com) | 
-popmama |
-fortuneidn |
+[popmama](https://github.com/IDN-Media/README.popmama.com) | 
+[fortuneidn](https://github.com/IDN-Media/README.fortuneidn.com) | 
 yummy |
 idnapp |
 ice
