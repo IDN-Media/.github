@@ -10,10 +10,9 @@ ice
 
 ## CHAPTERS
 
-[laravel](https://github.com/IDN-Media/.github-private/laravel.md) |
+[laravel](https://github.com/IDN-Media/dot-github-private/blob/master/laravel.md) |
 nextjs |
 android |
 ios |
 flutter |
-[system architecture](https://github.com/IDN-Media/.github-private/openapi.md)
-
+[system architecture](https://github.com/IDN-Media/dot-github-private/blob/master/openapi.md)
