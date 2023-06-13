@@ -5,7 +5,7 @@
 [popmama](https://github.com/IDN-Media/README.popmama.com) |
 [fortuneidn](https://github.com/IDN-Media/README.fortuneidn.com) |
 yummy |
-idnapp |
+[idnapp](https://github.com/IDN-Media/README.idnapp.com) |
 ice
 
 ## CHAPTERS
